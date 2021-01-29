@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+.maintitle {
+    color: white;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.secondtitle{
+    color: white;
+    font-weight: 300;
+    font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color: white;
+}
+
+.greyedtext {
+opacity: 50%;
+font-size: 21px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
